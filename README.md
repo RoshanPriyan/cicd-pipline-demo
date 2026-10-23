@@ -1,3 +1,2 @@
 # cicd-pipeline-demo - Learning CICD
-# trying direct push
-# My protected flow works!
+"Create a new branch from base branch 'develop' and give PR"
